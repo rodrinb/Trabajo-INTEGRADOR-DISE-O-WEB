@@ -14,7 +14,7 @@
     background-size: cover;
     background-position:center;
     min-width: 250px;
-    
+
 }
 
 
@@ -34,7 +34,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 25px;
-    
+
 }
 
 
@@ -59,9 +59,9 @@
     word-spacing: 1px;
     position:absolute;
     margin-left: 30px;
-    
-    
-    
+
+
+
 }
 
 
@@ -83,7 +83,7 @@ a {
     margin-right: 30px;
     top: 20px;
     font-size: 130%;
-    
+
 }
 
 
@@ -95,7 +95,7 @@ a {
     display: flex;
     justify-content: right;
     padding: 25px;
-    
+
 
     }
 
@@ -104,7 +104,7 @@ a {
         .lista-nav{
             min-width: 250px;
             flex-direction: column;
-            
+
         }
     }
 
@@ -114,7 +114,7 @@ a {
     .lista-nav li{
        transition:all 0.5s ease;
 
-        
+
     }
 
 
@@ -146,8 +146,8 @@ a {
     display: flex;
     justify-content: center;
     gap: 700px;
-    
-    
+
+
    }
 
 
@@ -155,7 +155,7 @@ a {
    .item-body{
     display:flex;
     justify-content:space-around;   
-    
+
 
 }
 
@@ -185,11 +185,11 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     flex-wrap: wrap;
-    
-    
-    
 
-    
+
+
+
+
 }
 
 
@@ -201,7 +201,7 @@ body{
         flex-direction: column;
         background-image: url(HOPS.jpg);
         margin-bottom: 2000px;
-    
+
     }
 }
 
@@ -217,7 +217,7 @@ img{
     display: flex;
     padding:5px;
     margin-top: 60px;
-    
+
 }
 
 
@@ -293,5 +293,6 @@ h3{
     justify-content:center;
     gap: 10px;
     bottom: 20px;
-    
+
 }
+        
